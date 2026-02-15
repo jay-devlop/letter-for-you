@@ -106,7 +106,7 @@ body {
   background: #f999c4;
   color: #fff;
 
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.12);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.02);
 
   display: inline-flex;
   justify-content: center;
@@ -126,7 +126,7 @@ body {
   background: #d9d9d9;
   color: #333;
 
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.10);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
 
   display: inline-flex;
   justify-content: center;

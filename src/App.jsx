@@ -148,7 +148,7 @@ function ValentineAsk({ onYes }) {
             onClick={onYes}
             style={{ width: `${yesW}px`, height: `${NO_H}px` }}
           >
-            ♥️Yes♥️
+            ♥️ Yes ♥️
           </button>
 
           {!noMoved ? (
@@ -158,7 +158,7 @@ function ValentineAsk({ onYes }) {
               onMouseEnter={armEscape}
               onMouseMove={armEscape}
             >
-              💔No💔
+              💔 No 💔
             </button>
           ) : null}
         </div>
